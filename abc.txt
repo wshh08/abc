@@ -1,4 +1,7 @@
 abc_王韶华
 XXXXXXXXXXXXXXXXXXXXXXXXXXx
 
-Edited BY Master
+<<<<<<< HEAD
+=======
+Edited BY branch dev
+>>>>>>> dev
